@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "student name": "Rani solanki",
+        "study" :  "nodejs",
+        "email id" : "rani19@navgurukul.org" 
+    },
+    {
+        "id" : 2,
+        "student name": "sandhya",
+        "study" :  "python",
+        "email id" : "sandhya19@navgurukul.org"
+    },
+    {
+        "id" : 3,
+        "student name": "krithika",
+        "study" :  "python",
+        "email id" : "krithika19@navgurukul.org"
+    },
+    {
+        "id" : 4,
+        "student name": "swati waghmare",
+        "study" :  "nodejs",
+        "email id" : "swati19@navgurukul.org"
+    },
+    {
+        "id" : 6,
+        "student name": "shanhaz",
+        "study" :  "team member",
+        "email id" : "shahnaz20@navgurukul.org"
+    },
+    {
+        "id" : 7,
+        "student name": "apeksha",
+        "study" :  "reactjs",
+        "email id" : "apekahs17@navgurukul.org"
+    },
+    {
+        "id" : 8,
+        "student name": "komal batth",
+        "study" :  "team member",
+        "email id" : "komalbatth17@navgurukul.org"
+    },
+    {
+        "id" : 9,
+        "student name": "sonam",
+        "study" :  "college",
+        "email id" : "sonam@ gamail.com."
+    },
+    {
+        "id" : 10,
+        "student name": "rabiya nazami",
+        "study" :  "team membetr",
+        "email id" : "rabiya19@navgurukul.org"
+    }
+]
